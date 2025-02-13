@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bennypickard
-- 👀 I’m interested in machine learning and coding for fun.
-- 🌱 I’m currently learning how to use Phaser 3 with typscript to make 2D platformer games.
+- 👀 I’m interested in cloud computing and IT solutions
+- 🌱 I’m currently learning how to impliment best CI/CD practices in AWS and Google Cloud
 - 💞️ I’m not looking to collaborate at the moment.
 - 📫 There is not good way to reach me at the moment.
 
